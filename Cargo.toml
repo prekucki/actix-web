@@ -89,7 +89,7 @@ lazy_static = "1.0"
 lazycell = "1.0.0"
 parking_lot = "0.7"
 serde_urlencoded = "^0.5.3"
-url = { version="1.7", features=["query_encoding"] }
+url = { version="2.1", features=["query_encoding"] }
 cookie = { version="0.11", features=["percent-encode"] }
 brotli2 = { version="^0.3.2", optional = true }
 flate2 = { version="^1.0.2", optional = true, default-features = false }
