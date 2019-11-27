@@ -115,7 +115,7 @@ tokio-tls = { version="0.2", optional = true }
 
 # openssl
 openssl = { version="0.10", optional = true }
-tokio-openssl = { version="0.2", optional = true }
+tokio-openssl = { version="0.4", optional = true }
 
 #rustls
 rustls = { version = "0.14", optional = true }
