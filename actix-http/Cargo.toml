@@ -76,7 +76,7 @@ serde = "1.0"
 serde_json = "1.0"
 sha-1 = "0.8"
 slab = "0.4"
-serde_urlencoded = "0.6.1"
+serde_urlencoded = "0.7.0"
 time = "0.1.42"
 
 # for secure cookie
