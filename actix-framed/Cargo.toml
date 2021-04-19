@@ -34,4 +34,4 @@ log = "0.4"
 actix-server = "1.0.0"
 actix-connect = { version = "1.0.0", features=["openssl"] }
 actix-http-test = { version = "1.0.0", features=["openssl"] }
-actix-utils = "1.0.3"
+actix-utils = "3.0.0"
